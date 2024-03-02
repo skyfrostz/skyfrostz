@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on friends who have good command of AI and FE&BE development.
 - 📫 Plz feel free to contact me at skyfrostzhong@gmail.com
 - 😄 Pronouns: SkyFrost, Carl Zhong as well.
-- ⚡ Fun fact: I'm just a beginner in AI, which means I am more than delighted to learn anythings.
+- ⚡ Fun fact: I'm just a beginner in AI, which means I am more than delighted to learn anything.
 
 <!---
 skyfrostz/skyfrostz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
